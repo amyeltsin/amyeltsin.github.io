@@ -2,29 +2,10 @@ body{
   background: black;
 }
 
-#password {
-	height: 20px;
-	width: 150px;
-	border: 0px solid #191919;
-	padding: 5px ;
-	font-family: alexana;
-	text-align: center;
-	border-radius: 7px;
-	box-shadow: 0px 5px 10px #a0948a;
-
-.start_button {
-  color: black;
-  border: 3px solid #191919;
-  margin-top: 30px;
-  font-family: alexana;
-  font-size: 18px;
+h1{
+  color: white;
+  font-family: 'Qahiri', sans-serif;
+  font-family: 'Yomogi', cursive;
+  font-size: 50px;
   text-align: center;
-  border-radius: 20px;
-  -moz-border-radius: 20px;
-  line-height: 200%;
-  width: 120px;
-  height: 40px;
-  background: white;
-  text-decoration: none;
-  box-shadow: 0px 5px 10px #a0948a;
-  }
+}
