@@ -4,27 +4,25 @@
     sure to preserve the BOM (first three bytes of the file, EF BB BF).
  */
 body {
-  background: rgb(42, 42, 42);
+  background: rgb(37, 37, 37);
   font-family: sans-serif;
 }
 
 .error-title {
-  color: rgb(106, 105, 105);
+  color: rgb(110, 110, 110);
   font-size: 30px;
   font-weight: bold;
   position: absolute;
   top: 35%;
   width: 100%;
   text-align: center;
-  /* background-color: blue; */
 }
 
 .error-message {
-  color: rgb(93, 93, 93);
+  color: rgb(88, 88, 88);
   font-size: 15px;
   position: absolute;
   text-align: center;
   top: 50%;
   width: 100%;
-  /* background-color: red; */
 }
