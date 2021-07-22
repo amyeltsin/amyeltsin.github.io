@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/login.css">
+  <title></title>
+</head>
+
+<body>
+  <div>
+    <form>
+      <input type="password" id="password" value="" placeholder="password" />
+      <br>
+      <input type="button" onclick="myFunction()" onkeydown="myFunction()" value="START" id="start_button" />
+    </form>
+  </div>
+
+  <script>
+    function myFunction() {
+      var x;
+
+      x = document.getElementById("password").value;
+
+      if (event.keyCode === 13) {
+        document.getElementById("start_button").click();
+      }
+
+      if (x == "adakah") {
+        location.replace("index.html")
+      } else {
+        location.replace("")
+      }
+      document.getElementById("demo").innerHTML = text;
+    }
+  </script>
+
+</body>
+
+</html>
