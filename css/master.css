@@ -9,7 +9,7 @@ body {
 }
 
 .error-title {
-  color: rgb(89, 87, 87);
+  color: rgb(106, 105, 105);
   font-size: 30px;
   font-weight: bold;
   position: absolute;
@@ -20,7 +20,7 @@ body {
 }
 
 .error-message {
-  color: rgb(79, 77, 77);
+  color: rgb(93, 93, 93);
   font-size: 15px;
   position: absolute;
   text-align: center;
