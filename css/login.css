@@ -2,13 +2,31 @@ body{
   background-color: black;
 }
 
+.posisi{
+  margin-top: 15%;
+	width: 500px;
+	min-width: 400px;
+	height: 500px;
+	min-height: 400px;
+}
+
 #password{
-  
+  margin-top: 50%;
+  width: 25%;
+  min-width: 20px;
+  height: 5%;
+  min-height: 20px;
+  background-color: rgba(67, 226, 19, 0.72);
 }
 
 
 #start_button {
-
+  margin-top: 1%;
+  width: 5%;
+  min-width: 1%;
+  height: 5%;
+  min-height: 1%;
+  background-color: rgb(196, 45, 37);
 }
 
 #start_button:hover {
