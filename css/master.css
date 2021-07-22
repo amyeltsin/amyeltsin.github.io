@@ -6,10 +6,10 @@ body {
 
 .error-title {
   color: rgb(110, 110, 110);
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
   position: absolute;
-  top: 38%;
+  top: 40%;
   width: 100%;
   text-align: center;
   text-decoration: none;
@@ -17,7 +17,7 @@ body {
 
 .error-message {
   color: rgb(88, 88, 88);
-  font-size: 12px;
+  font-size: 15px;
   position: absolute;
   text-align: center;
   top: 50%;
