@@ -1,16 +1,16 @@
-body{
+body {
   background-color: black;
 }
 
-.posisi{
+.posisi {
   margin-top: 15%;
-	width: 500px;
-	min-width: 400px;
-	height: 500px;
-	min-height: 400px;
+  width: 500px;
+  min-width: 400px;
+  height: 500px;
+  min-height: 400px;
 }
 
-#password{
+#password {
   margin-top: 0%;
   width: 50%;
   min-width: 20px;
@@ -22,7 +22,6 @@ body{
   border-top: 0px;
 }
 
-
 #start_button {
   margin-top: 1%;
   width: 20%;
@@ -33,19 +32,16 @@ body{
   background-color: green;
 }
 
-#start_button:hover {
+#start_button:hover {}
 
-}
-
-h5{
-  font-size: px;
+h5 {
   color: red;
   font-family: 'Press Start 2P', cursive;
-  margin-top: 75%;
+  margin-top: 65%;
   width: 50%;
   min-width: 20px;
   height: 5%;
   min-height: 20px;
-background-color: yellow;
-padding: 3px;
+  background-color: yellow;
+  padding: 3px;
 }
