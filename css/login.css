@@ -11,14 +11,15 @@ body{
 }
 
 #password{
-  margin-top: 50%;
+  margin-top: 0%;
   width: 50%;
   min-width: 20px;
-  height: 5%;
+  height: 10%;
   min-height: 20px;
-  color: yellow;
-  background-color: green;
+  color: red;
+  background-color: blue;
   text-align: center;
+  border-top: 0px;
 }
 
 
@@ -28,10 +29,23 @@ body{
   min-width: 1%;
   height: 8%;
   min-height: 1%;
-  color: blue;
-  background-color: red;
+  color: yellow;
+  background-color: green;
 }
 
 #start_button:hover {
 
+}
+
+h5{
+  font-size: px;
+  color: red;
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 75%;
+  width: 50%;
+  min-width: 20px;
+  height: 5%;
+  min-height: 20px;
+background-color: yellow;
+padding: 3px;
 }
