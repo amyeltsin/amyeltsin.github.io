@@ -4,12 +4,17 @@ body {
   overflow: hidden; /* Hide scrollbars */
 }
 
+#container{
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
 .error-title {
   color: rgb(110, 110, 110);
   font-size: 25px;
   font-weight: bold;
-  position: absolute;
-  top: 40%;
   width: 100%;
   text-align: center;
   text-decoration: none;
@@ -18,9 +23,6 @@ body {
 .error-message {
   color: rgb(88, 88, 88);
   font-size: 15px;
-  position: absolute;
   text-align: center;
-  top: 50%;
   width: 100%;
   text-decoration: none;
-}
