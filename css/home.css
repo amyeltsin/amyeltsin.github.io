@@ -5,10 +5,10 @@ body {
 .image img{
   position: absolute;
   left: 50%;
-  top: 30%;
-  transform: translate(-50%, -30%);
-  width: 130px;
-  height: 240px;
+  top: 40%;
+  transform: translate(-50%, -40%);
+  width: 180px;
+  height: 330px;
   float: none;
   display: block;
 }
