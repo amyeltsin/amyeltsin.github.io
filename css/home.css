@@ -1,18 +1,14 @@
 body {
   background-color: black;
-  background-image: url(../img/gif4.gif);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: right;
 }
 
 .image img{
   position: absolute;
   left: 50%;
-  top: 20%;
-  transform: translate(-50%, -20%);
+  top: 15%;
+  transform: translate(-50%, -15%);
   width: 130px;
-  height: 210px;
+  height: 240px;
   float: none;
 }
 
