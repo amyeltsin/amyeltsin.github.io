@@ -34,6 +34,10 @@ span {
   color: #14f500;
 }
 
+.middle{
+  display: block;
+}
+
 .middle p {
   color: #14f500;
   position: absolute;
