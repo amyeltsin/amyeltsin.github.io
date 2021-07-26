@@ -11,6 +11,10 @@ body {
   height: 330px;
   float: none;
   display: block;
+  border-style: solid;
+  border-color: #14f500;
+  border-width: 1px;
+  padding: 10px;
 }
 
 
