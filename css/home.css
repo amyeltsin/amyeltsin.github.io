@@ -1,5 +1,9 @@
 body {
   background-color: black;
+  background-image: url(../img/gif4.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
 }
 
 .image img{
