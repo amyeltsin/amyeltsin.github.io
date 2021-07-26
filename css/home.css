@@ -39,7 +39,10 @@ span {
 .middle p {
   color: #14f500;
   position: absolute;
-  padding: 30px;
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-left: 30px;
+  padding-right: 30px;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -80%);
