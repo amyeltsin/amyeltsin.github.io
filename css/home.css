@@ -10,6 +10,7 @@ body {
   width: 130px;
   height: 240px;
   float: none;
+  display: block;
 }
 
 h1 {
